@@ -1,0 +1,2 @@
+import total
+total.total()
